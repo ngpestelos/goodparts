@@ -1,1 +1,1 @@
-Code Examples from JavaScript - The Good Parts
+Examples taken from JavaScript - The Good Parts
